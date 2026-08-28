@@ -1,0 +1,6 @@
+{
+  "name": "Daily Job Matches - Discovery & Verification",
+  "description": "Step 1 job discovery, direct employer verification, 0-100% resume match scoring, gap analysis, and ranking of 100 verified-active jobs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
